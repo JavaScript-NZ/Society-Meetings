@@ -5,7 +5,7 @@ Video: https://plus.google.com/events/cen3k512s1jrlo2ie2glo20dtuc
 
 # Agenda
 
-[Agenda items](https://github.com/JavaScript-NZ/Society-Meetings/milestones/Meeting-2015-01)
+Agenda items: https://github.com/JavaScript-NZ/Society-Meetings/issues?q=milestone%3ACommittee-2015-07-07
 
 # Attendance
 Committee members in attendance:
