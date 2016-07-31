@@ -36,11 +36,11 @@ JavaScript NZ Incorporated Society is now 20 months old and we're having our sec
 
 As a society we're tasked with activities that grow the JavaScript development community within NZ and we think our first real year of operation has been a great success.
 
-We've managed to put together some great Nodebots events, thanks to the dedicated team of enthusiasts (Alex Gibson, Elf Eldridge, Mayur Panchal, Jacob Duval amongst others) who run them (and we owe them all big thanks) and we're on track to hold our first conference in 2017 thanks to the efforts of Jen and others. I we now have a membership base to allow us to grow as a society and a slack community of nearly 300 that has a wide variety of developers representing lots of companies and roles throughout New Zealand.
+We've managed to put together some great Nodebots events, thanks to the dedicated team of enthusiasts (Alex Gibson, Elf Eldridge, Mayur Panchal, Jacob Duval amongst others) who run them (and we owe them all big thanks) and we're on track to hold our first conference in 2017 thanks to the efforts of Jen and others. We now have a membership base to allow us to grow as a society and a Slack community of nearly 300 that has a wide variety of developers representing lots of companies and roles throughout New Zealand.
 
 We see our challenges going forward: 
-* Maintining and growing momentum around our events (Nodebots and JavaScript Conference)
-* Building an engaged society membership and building out meaninful benifits of membership
+* Maintaining and growing momentum around our events (Nodebots and JavaScript Conference)
+* Building an engaged society membership and building out meaningful benefits of membership
 * Maintaining and encouraging an active committee despite people's ongoing commitments elsewhere
 * Building up sources of income to help us benefit members and others in the community through sponsorship
 
@@ -74,7 +74,7 @@ There were a total of 6 positions available. The following members were appointe
 * Stevie Mayhew with 6 votes
 * James Macfie with 5 votes
 
-Many thanks to our other nominees who stepped forwards, who we would like to encourage to try again next year.
+Many thanks to our other nominees who stepped forward, who we would like to encourage to try again next year.
 
 * Ashley with 4 votes
 * Geordie with 2 votes
