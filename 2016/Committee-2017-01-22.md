@@ -32,5 +32,6 @@ Committee members in attendance:
 * James
 * Jen
 * Craig
+* Owen
 
 # Minutes
