@@ -4,7 +4,7 @@
 
 **Location:** Google Hangouts
 
-**Video:** [YouTube Link]()
+**Video:** _Forgot to record this time._
 
 # Attendance
 
